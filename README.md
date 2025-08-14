@@ -1,7 +1,7 @@
 # quiz-app
 Java Swing Quiz Application with Gmail  Login  
 # Java Swing Quiz Application
-
+## 📌 Description  
 A colorful Java Swing-based Quiz App with:  
 - Login using Gmail  
 - Rules screen  
@@ -12,12 +12,34 @@ A colorful Java Swing-based Quiz App with:
 - Fixed-size, non-resizable windows  
 - Final score screen showing incorrect answers and correct answers  
 
-## Features
-✅ Gmail-based login  
-✅ Fixed-size colorful UI  
-✅ Randomized options order  
-✅ Countdown timer for each question (15s)  
-✅ Displays correct answers for all incorrect ones at the end  
+✨ Features
+
+📧 Gmail-based Login & Logout – Secure entry before starting the quiz.
+
+📜 Rules Page – Clear instructions before the quiz begins.
+
+🎨 Beautiful Colorful UI – Different background colors and styled buttons for an engaging experience.
+
+🔄 Randomized Answer Order – Prevents memorization of option positions.
+
+⏳ Countdown Timer – 15 seconds per question, auto-moving to the next one.
+
+✅ Correct Answer Highlighting – Green for correct, red for wrong.
+
+📊 Score Page – Shows score and correct answers for all wrong attempts.
+
+📦 20 Hard Java Questions – Real-world scenario-based MCQs for Java mastery.
+
+🖥 Fixed-Size Window – Prevents resizing for consistent layout.
+
+⚡ Fast & Lightweight – Runs instantly on any Java-supported device.
+
+📂 File Structure
+├── Login.java        # Login Window
+├── Rules.java        # Rules Window
+├── Quiz.java         # Main Quiz Logic
+├── Score.java        # Score & Results
+├── README.md         # Project Documentation
 
 ## Requirements
 - Java 8 or later installed  
